@@ -1,24 +1,4 @@
-PROBLEM STATEMENT : 
-Healthcare - Empowering traveling doctors with AI
- Scenario: 
-Ravi is a traveling doctor who provides healthcare services to multiple rural communities across Jharkhand. With limited time 
-and resources, he finds it challenging to deliver consistent care to all his patients. Many of his patients have chronic conditions 
-that require regular monitoring, but the lack of a centralized system means Ravi often has to rely on paper records, which are 
-incomplete or outdated. This makes it difficult for him to provide accurate and timely care, leading to potential health risks for 
-his patients. The system should also store patient data over time and help the doctor use the longitudinal data to predict disease 
-progression for better care recommendations. 
-He wants an economical tech-based solution that can process different data sources and help him in decision and knowledge 
-support in the field. The system should have Responsible AI and data privacy built in, given the sensitive nature of the data.
- Student’s challenge: 
-Design an AI-powered mobile health platform that enables healthcare providers like Ravi to efficiently manage patient care 
-across multiple locations. The solution should facilitate the tracking of chronic conditions, allow for the easy input and retrieval 
-of patient data, and provide AI-driven insights for better decision-making. It could include features such as remote monitoring, 
-predictive analytics for health deterioration and automated alerts for necessary follow-ups.
- Since the solution should be available for commercial use, include models that we can deploy for commercial use and not just 
-for research purpose.
-________________________________________
-SOLUTION:
-Presentation: RuralCare - Revolutionizing Healthcare with Technology
+Presentation:  RURALCARE - Revolutionizing Healthcare with Technology
 Motto: "Reliable, Remote, Responsive Care for Every Community"
 ________________________________________
 Storyline:
